@@ -28,6 +28,8 @@
 
 要点的罗列遵循如下结构，以便更好的学习：
 
+![结构图](https://github.com/MengWeiAn/best-java-interview-book/blob/master/images/java-interview-readme1.png)
+
 本指南的最基本文章元素，类似上图的《ArrayList与LinkedList的区别》这级。除了能保证这个问题，实实在在，从浅入深的讲解清楚。还可以方便学习完进行自我随机抽签检测。
 
 在每篇基本元素文章上，都会标明是哪个阶段必须掌握的，并且还会拓展延伸到有联系的其他知识点。项目后期，除了提供详细的讲解，为了方便读者快速的应付面试，还提供每个要点在每个阶段的参考面试回答内容。
